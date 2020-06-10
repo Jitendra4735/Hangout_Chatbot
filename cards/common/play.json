@@ -1,0 +1,30 @@
+{
+    "actionResponse": {
+        "type": "NEW_MESSAGE"
+    },
+    "cards": [
+        {
+            "header": {
+                "title": "Spend By Heads",
+                "imageUrl": "https://media-exp1.licdn.com/dms/image/C510BAQEj_0svnI6_0w/company-logo_200_200/0?e=2159024400&v=beta&t=l0D9P2XMuQJIw3541OCV6h9Z5TOkHMqbLRHM7LbLrqk",
+                "imageStyle": "AVATAR"
+            },
+            "sections": [
+                {
+                    "widgets": [
+                        {
+                            "image": {
+                                "imageUrl": "https://encodedimageupload.blob.core.windows.net/hangouterp/9855146941763069-spendByHead.jpg",
+                                "onClick": {
+                                    "openLink": {
+                                        "url": "https://encodedimageupload.blob.core.windows.net/hangouterp/9855146941763069-spendByHead.jpg"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
